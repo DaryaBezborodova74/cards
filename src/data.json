@@ -2,51 +2,91 @@
     {
         "id": 1,
         "front": "apple",
-        "back": "яблоко"
+        "back": "яблоко",
+        "setName": "English"
     },
     {
         "id": 2,
         "front": "orange",
-        "back": "апельсин"
+        "back": "апельсин",
+        "setName": "English"
     },
     {
         "id": 3,
         "front": "driver",
-        "back": "водитель"
+        "back": "водитель",
+        "setName": "English"
     },
     {
         "id": 4,
         "front": "designer",
-        "back": "дизайнер"
+        "back": "дизайнер",
+        "setName": "English"
     },
     {
         "id": 5,
         "front": "bath",
-        "back": "ванная"
+        "back": "ванная",
+        "setName": "English"
     },
     {
         "id": 6,
         "front": "living room",
-        "back": "зал"
+        "back": "зал",
+        "setName": "English"
     },
     {
         "id": 7,
         "front": "bed",
-        "back": "спальня"
+        "back": "спальня",
+        "setName": "English"
     },
     {
         "id": 8,
         "front": "tomato",
-        "back": "помидор"
+        "back": "помидор",
+        "setName": "English"
     },
     {
         "id": 9,
         "front": "ball",
-        "back": "мяч"
+        "back": "мяч",
+        "setName": "English"
     },
     {
         "id": 10,
         "front": "doll",
-        "back": "кукла"
+        "back": "кукла",
+        "setName": "English"
+    },
+    {
+        "id": 11,
+        "front": "p",
+        "back": "абзац",
+        "setName": "tags"
+    },
+    {
+        "id": 12,
+        "front": "a",
+        "back": "ссылка",
+        "setName": "tags"
+    },
+    {
+        "id": 13,
+        "front": "img",
+        "back": "изображение",
+        "setName": "tags"
+    },
+    {
+        "id": 14,
+        "front": "border",
+        "back": "рамка",
+        "setName": "css"
+    },
+    {
+        "id": 15,
+        "front": "backgraund",
+        "back": "фон",
+        "setName": "css"
     }
 ]
