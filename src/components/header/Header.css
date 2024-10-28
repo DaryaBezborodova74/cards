@@ -2,5 +2,17 @@
     background-color: darkblue;
     color: white;
     text-align: center;
-    padding: 15px 0;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .main-nav .link {
+    color: aliceblue;
+  }
+
+  .main-nav {
+    display: flex;
+    list-style: none;
   }
